@@ -1,0 +1,56 @@
+#location .location__container {
+  width: 58%;
+  display: grid;
+  gap: 12%;
+  margin: 0 auto;
+}
+
+#location .location-input[type="text"] {
+  width: 100%;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  background: transparent;
+  border: 2px solid var(--color-primary-variant);
+  resize: none;
+  color: var(--color-white);
+}
+
+#location .location-details {
+  text-align: center;
+  font-size: 1rem;
+  margin-top: 2rem;
+}
+
+#location .location-info {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+  /* font-weight: bold; */
+}
+
+@media screen and (max-width: 600px) {
+  #location {
+    padding: 0.5rem;
+  }
+
+  #location h2 {
+    font-size: 1.2rem;
+  }
+
+  #location form {
+    margin-top: 0.5rem;
+  }
+
+  #location input[type="text"] {
+    padding: 0.4rem;
+    margin-bottom: 0.4rem;
+  }
+
+  #location button[type="submit"] {
+    padding: 0.4rem 0.8rem;
+  }
+
+  #location p {
+    font-size: 0.9rem;
+    margin-top: 0.4rem;
+  }
+}
