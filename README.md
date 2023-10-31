@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Aplicação
 
-Você pode visualizar a aplicação do projeto através [DESSE LINK]()
+Você pode visualizar a aplicação do projeto através [DESSE LINK](https://fiap-cap-04-at-02-5.vercel.app/)
 
 ## :memo: Licença
 
