@@ -31,16 +31,16 @@ class Footer extends Component {
           </li>
         </ul>
         <div className="footer__social">
-          <a href="https://www.facebook.com" target="_blank">
+          <a href="https://www.facebook.com" target="_blank" rel="noreferrer">
             <IoLogoFacebook />
           </a>
-          <a href="https://instagram.com" target="_blank">
+          <a href="https://instagram.com" target="_blank" rel="noreferrer">
             <IoLogoInstagram />
           </a>
-          <a href="https://twitter.com" target="_blank">
+          <a href="https://twitter.com" target="_blank" rel="noreferrer">
             <IoLogoTwitter />
           </a>
-          <a href="https://www.youtube.com/" target="_blank">
+          <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
             <IoLogoYoutube />
           </a>
         </div>

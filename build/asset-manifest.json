@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8db3862f.css",
+    "main.js": "/static/js/main.d0c59a2b.js",
+    "static/media/vai-com-gulliver.png": "/static/media/vai-com-gulliver.9efcbcf02caab7966a7e.png",
+    "static/media/reci.png": "/static/media/reci.e0aaa09cd34460094969.png",
+    "static/media/vic3.jpeg": "/static/media/vic3.5835de5a116fd3025547.jpeg",
+    "static/media/vida-renal.png": "/static/media/vida-renal.733efc8ec434b28087c9.png",
+    "static/media/vic.jpg": "/static/media/vic.22a8d16aa5b0cbad6d31.jpg",
+    "index.html": "/index.html",
+    "main.8db3862f.css.map": "/static/css/main.8db3862f.css.map",
+    "main.d0c59a2b.js.map": "/static/js/main.d0c59a2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8db3862f.css",
+    "static/js/main.d0c59a2b.js"
+  ]
+}
